@@ -1,4 +1,4 @@
-The Rainfall Prediction System 
+Rainfall Prediction System 
 
 This system uses historical weather data to predict the likelihood of rainfall using a Random Forest Classifier. By analyzing various weather parameters such as temperature, humidity, pressure, wind speed, and other features, the model can forecast the chances of rainfall. This system is designed to assist in weather forecasting and can be applied to locations with historical weather data. The data is preprocessed to handle missing values, outliers, and categorical features, making it ready for model training.
 
