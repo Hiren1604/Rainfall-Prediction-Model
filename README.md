@@ -1,2 +1,1 @@
-# Rainfall-Prediction-Model
-Rainfall prediction is a crucial application of weather forecasting that aids in agriculture, water resource management, and disaster preparedness. This project utilizes historical weather data and machine learning techniques to predict rainfall based on various meteorological parameters such as temperature, humidity, pressure, and wind speed.
+Rainfall prediction plays a vital role in agriculture, water resource management, and disaster preparedness. This project leverages historical weather data and machine learning techniques to forecast rainfall using key meteorological parameters, including temperature, humidity, pressure, and wind speed.
